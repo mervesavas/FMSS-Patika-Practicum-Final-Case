@@ -1,5 +1,6 @@
 <img width="1435" alt="Ekran Resmi 2023-04-28 14 49 07" src="https://user-images.githubusercontent.com/86923236/235139926-2311ef86-f4ad-452d-8234-60d8c7752304.png">
 
+### Deploy: https://fmss-patika-practicum-final-case.vercel.app/
 
 ### `npm start`
 
