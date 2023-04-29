@@ -62,7 +62,6 @@ function Main() {
             setStarships(null);
           } else {
             setStarships([...res.data.results]);
-            console.log(res.data)
             for (let i = 1; i <= (res.data.count / 10) + 1; i++) {
               pageNumbers.push(i);
             }
